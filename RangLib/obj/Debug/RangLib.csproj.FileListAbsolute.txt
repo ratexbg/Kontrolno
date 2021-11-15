@@ -1,0 +1,5 @@
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\F26178\F26178\RangLib\bin\Debug\RangLib.dll
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\F26178\F26178\RangLib\bin\Debug\RangLib.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\F26178\F26178\RangLib\obj\Debug\RangLib.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\F26178\F26178\RangLib\obj\Debug\RangLib.dll
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\F26178\F26178\RangLib\obj\Debug\RangLib.pdb
